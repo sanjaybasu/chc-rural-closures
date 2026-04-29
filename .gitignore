@@ -1,0 +1,21 @@
+# UDS bulk data — too large + redistribution discouraged
+data/uds/
+data/processed/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+
+# Pytest
+.pytest_cache/

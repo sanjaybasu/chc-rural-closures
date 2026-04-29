@@ -1,0 +1,12 @@
+outcome,label,att,se,p_raw,p_bonf,p_holm,p_BH,p_BY,p_RW
+log_n_total,log(Total patients),0.1378,0.0292,0.0,0.0,0.0,0.0,0.0001,0.0
+htn_control_pct,Hypertension control,0.0197,0.0065,0.0022,0.0245,0.0222,0.0122,0.0369,0.0219
+imm_child,Childhood immunization,-0.0317,0.0142,0.0252,0.2775,0.227,0.0925,0.2793,0.1951
+bmi_adult,Adult BMI follow-up,0.0265,0.014,0.0586,0.6446,0.4688,0.1612,0.4867,0.3585
+tobacco,Tobacco assessment+intervention,0.0137,0.0111,0.2197,1.0,1.0,0.4833,1.0,0.7942
+crc_screen,Colorectal cancer screening,0.0091,0.0104,0.3814,1.0,1.0,0.6154,1.0,0.9266
+dm_poor_control_pct,Diabetes A1c>9% (poor),0.006,0.0069,0.3916,1.0,1.0,0.6154,1.0,0.9266
+depr_screen,Depression screen+follow-up,-0.0109,0.0151,0.4675,1.0,1.0,0.6429,1.0,0.9266
+share_medicaid,Medicaid share,-0.0031,0.0049,0.5294,1.0,1.0,0.647,1.0,0.9266
+pap_screen,Cervical cancer screening,-0.005,0.0092,0.5882,1.0,1.0,0.647,1.0,0.9266
+share_uninsured,Uninsured share,0.0024,0.0058,0.6759,1.0,1.0,0.6759,1.0,0.9266

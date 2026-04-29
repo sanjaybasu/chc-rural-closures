@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the manuscript and this repository."
+title: "Rural Hospital Closures and Community Health Center Capacity"
+authors:
+  - family-names: Basu
+    given-names: Sanjay
+    affiliation: "Waymark / University of California, San Francisco"
+    orcid: "https://orcid.org/0000-0001-8235-9131"
+preferred-citation:
+  type: article
+  title: "Rural Hospital Closures and Community Health Center Capacity: A Center-Level Event Study of Patient Volume, Payer Mix, and Quality, 2014--2024"
+  authors:
+    - family-names: Basu
+      given-names: Sanjay
+  journal: "Journal of Health Care for the Poor and Underserved"
+  year: 2026
+  notes: "In submission to JHCPU NACHC Special Supplement."

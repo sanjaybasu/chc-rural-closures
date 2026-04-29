@@ -1,0 +1,9 @@
+pandas>=2.0
+numpy>=1.24
+openpyxl>=3.1
+pyarrow>=12.0
+statsmodels>=0.14
+scipy>=1.11
+matplotlib>=3.7
+differences>=0.2
+linearmodels>=6.0
