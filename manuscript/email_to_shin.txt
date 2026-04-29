@@ -1,0 +1,45 @@
+To: Peter Shin <pshin@gwu.edu>
+Cc: Kyu Rhee <krhee@nachc.org>; Sara Rosenbaum <sarar@gwu.edu>; Jessica Sharac <jsharac@gwu.edu>
+From: Sanjay Basu <sanjay.basu@ucsf.edu>
+Subject: Possible co-authorship — JHCPU NACHC supplement on rural hospital closures and CHC absorption
+
+Dear Peter,
+
+I'm writing to propose a collaboration on a submission to the upcoming JHCPU NACHC Special Supplement (deadline June 15, 2026).
+
+I've drafted a Brief Communication using the HRSA UDS public files (2014–2024) linked to the UNC Sheps Center rural hospital closure registry. Across 1,642 community health centers (386 exposed to a local rural hospital closure, 1,256 never-exposed), the Callaway–Sant'Anna estimator yields two findings that survive every reasonable multiple-testing correction (Bonferroni, Holm, Benjamini-Hochberg FDR, Benjamini-Yekutieli, and Romano-Wolf stepdown across 11 pre-specified outcomes):
+
+1. Patient volume rose 13.8% (95% CI 8.1% to 19.5%; FDR-adjusted p<0.001), accumulating to +27% by year eight post-closure.
+
+2. Hypertension control rose 1.97 percentage points (95% CI 0.71 to 3.24; FDR-adjusted p=0.012).
+
+Payer mix (uninsured share, Medicaid share) and seven additional clinical quality measures (diabetes, cervical/colorectal cancer screening, BMI follow-up, tobacco intervention, depression screening, childhood immunization) showed no significant change after correction. Pre-trends were clean.
+
+The framing builds directly on Miller et al. 2021 (FQHC presence near closures expands geographically) and on the natural-experiment work I published last year showing that losses of CHCs increase county-level mortality (Health Serv Res 2025;60(5):e14648). The new piece characterizes the operational response of CHCs that absorb post-closure demand — the rural-access topic the supplement explicitly names.
+
+I'd like to invite you to join as senior author. Two reasons:
+
+1. Policy framing. Empirical findings need to be situated in the Health Center Program "policy quilt" — 330 grants, PPS adequacy, NHSC/THC, and the 2025 reconciliation-law revenue shocks that you, Sara, Jessica, and the Geiger Gibson program have most authoritatively documented. The current draft cites Brief #72 (Kwon et al. 2024) and the Section 330 financing brief (Rosenbaum et al. 2019), but the policy interpretation of a 14% absorption shock against ongoing Medicaid unwinding is the synthesis Geiger Gibson does best.
+
+2. Methods extension. If GW has a fuller center-level UDS panel (revenue, FTEs, operating margin) via FOIA or another source, I'd love to extend the Brief to a Research Paper that adds financial-stability and workforce outcomes. The current Brief stands on its own using the public clinical and patient-volume data, but the fuller paper would be substantially stronger.
+
+The complete reproducible code base is public at https://github.com/sanjaybasu/chc-rural-closures (MIT license, full pipeline, tests, CI). Attached:
+
+- manuscript_jhcpu.docx — Brief Communication, body 1,934 / 2,500-word limit
+- title_page.docx and cover_letter.docx — JHCPU submission package
+- fig2_forest_all_outcomes.pdf and fig3_event_panels.pdf
+- cs2_simple_all.csv and multiple_testing_adjusted.csv — full results
+
+The natural division of labor: I lead the empirical work; you, Sara, and Jessica lead the policy framing and discussion. I'm happy to defer on author order; the paper should land where it has the most policy weight.
+
+Kyu — copying you because the supplement is NACHC-sponsored and I'd value your read on whether this framing serves the broader supplement narrative on policy impact and innovation in the Health Center Program. If a NACHC research lead would also be a useful co-author, I'm glad to extend the invitation.
+
+Happy to set up a 30-minute call this week or next.
+
+Warmly,
+Sanjay
+
+--
+Sanjay Basu, MD, PhD
+Waymark | UCSF Department of Epidemiology and Biostatistics
+sanjay.basu@ucsf.edu
