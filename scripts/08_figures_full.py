@@ -44,8 +44,8 @@ def forest():
     ax.set_title("Effect of local rural hospital closure on CHC outcomes\n"
                  "(exposed vs. never-exposed, 2014–2024)", fontsize=10, fontweight="bold")
     plt.tight_layout()
-    plt.savefig(FIG/"fig2_forest_all_outcomes.png", dpi=200, bbox_inches="tight")
-    plt.savefig(FIG/"fig2_forest_all_outcomes.pdf", bbox_inches="tight")
+    plt.savefig(FIG/"figure1_forest.png", dpi=200, bbox_inches="tight")
+    plt.savefig(FIG/"figure1_forest.pdf", bbox_inches="tight")
     print("saved fig2")
 
 def event_panels():
@@ -72,8 +72,8 @@ def event_panels():
     fig.suptitle("Event-study estimates (Callaway–Sant'Anna ATT) for 11 CHC outcomes",
                  fontsize=11, fontweight="bold", y=0.995)
     plt.tight_layout()
-    plt.savefig(FIG/"fig3_event_panels.png", dpi=200, bbox_inches="tight")
-    plt.savefig(FIG/"fig3_event_panels.pdf", bbox_inches="tight")
+    plt.savefig(FIG/"figure2_event_panels.png", dpi=200, bbox_inches="tight")
+    plt.savefig(FIG/"figure2_event_panels.pdf", bbox_inches="tight")
     print("saved fig3")
 
 if __name__ == "__main__":

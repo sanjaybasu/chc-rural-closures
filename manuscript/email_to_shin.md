@@ -24,11 +24,11 @@ I'd like to invite you to join as senior author. Two reasons:
 
 2. **Methods extension.** If GW has a fuller center-level UDS panel (revenue, FTEs, operating margin) via FOIA or another source, I'd love to extend the Brief to a Research Paper that adds financial-stability and workforce outcomes. The current Brief stands on its own using the public clinical and patient-volume data, but the fuller paper would be substantially stronger.
 
-The complete reproducible code base is at https://github.com/sanjaybasu/chc-rural-closures (private; I'll add you and Kyu as collaborators once you confirm interest). Attached:
+The complete reproducible code base is public at https://github.com/sanjaybasu/chc-rural-closures (MIT license, full pipeline, tests, CI). Attached:
 
 - `manuscript_jhcpu.docx` — Brief Communication, body 1,934 / 2,500-word limit
 - `title_page.docx` and `cover_letter.docx` — JHCPU submission package
-- `fig2_forest_all_outcomes.pdf` and `fig3_event_panels.pdf`
+- `figure1_forest.pdf` and `figure2_event_panels.pdf`
 - `cs2_simple_all.csv` and `multiple_testing_adjusted.csv` — full results
 
 The natural division of labor: I lead the empirical work; you, Sara, and Jessica lead the policy framing and discussion. I'm happy to defer on author order; the paper should land where it has the most policy weight.

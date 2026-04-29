@@ -203,10 +203,10 @@ def build_manuscript():
     add_heading(doc, "Figures and Tables", level=2)
 
     add_para(doc, "**Figure 1.** Forest plot of Callaway–Sant'Anna simple ATTs across all 11 pre-specified outcomes, exposed vs. never-exposed CHCs, 2014–2024. Blue intervals indicate statistical significance at 5% (raw p<0.05); intervals are 95% confidence intervals.")
-    add_image(doc, FIG/"fig2_forest_all_outcomes.png", width_inches=6.5)
+    add_image(doc, FIG/"figure1_forest.png", width_inches=6.5)
 
     add_para(doc, "**Figure 2.** Event-study Callaway–Sant'Anna ATT estimates by relative period for all 11 outcomes. Red filled circles indicate event-time-specific 95% pointwise confidence bands excluding zero. Reference period: year before exposure.")
-    add_image(doc, FIG/"fig3_event_panels.png", width_inches=6.5)
+    add_image(doc, FIG/"figure2_event_panels.png", width_inches=6.5)
 
     # Table 1
     add_para(doc, "**Table 1.** Baseline (2014) characteristics of CHCs by closure exposure.")

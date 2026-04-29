@@ -113,9 +113,9 @@ The author thanks the UNC Sheps Center Rural Hospital Closures team for maintain
 
 ## Figures and Tables
 
-**Figure 1.** Forest plot of Callaway–Sant'Anna simple ATTs across 11 outcomes, exposed vs. never-exposed CHCs, 2014–2024. Blue intervals: statistically significant at 5%. See `figures/fig2_forest_all_outcomes.pdf`.
+**Figure 1.** Forest plot of Callaway–Sant'Anna simple ATTs across 11 outcomes, exposed vs. never-exposed CHCs, 2014–2024. Blue intervals: statistically significant at 5%. See `figures/figure1_forest.pdf`.
 
-**Figure 2.** Event-study ATTs by relative period for all 11 outcomes. Red points: 95% pointwise confidence band excludes zero. See `figures/fig3_event_panels.pdf`.
+**Figure 2.** Event-study ATTs by relative period for all 11 outcomes. Red points: 95% pointwise confidence band excludes zero. See `figures/figure2_event_panels.pdf`.
 
 **Table 1.** Baseline (2014) characteristics of exposed vs. never-exposed CHCs. See `results/table1_baseline.csv`.
 
