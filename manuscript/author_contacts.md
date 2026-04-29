@@ -3,7 +3,7 @@
 (Order of precedence as on title page)
 
 ## 1. Sanjay Basu, MD, PhD (corresponding author)
-- Affiliation: Waymark, San Francisco, CA; Department of Epidemiology and Biostatistics, University of California, San Francisco, San Francisco, CA
+- Affiliation: Department of Medicine, University of California, San Francisco, San Francisco, CA; Waymark, San Francisco, CA
 - Email: sanjay.basu@ucsf.edu
 
 ## 2. [Peter Shin, PhD, MPH — pending invitation/acceptance]

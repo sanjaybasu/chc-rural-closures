@@ -3,7 +3,7 @@
 **Article type:** Brief Communication
 **Running head:** CHCs and rural hospital closures
 **Author:** Sanjay Basu, MD, PhD
-**Affiliations:** Waymark, San Francisco, CA; Department of Epidemiology and Biostatistics, University of California, San Francisco
+**Affiliations:** Department of Medicine, University of California, San Francisco; Waymark, San Francisco, CA
 **Correspondence:** sanjay.basu@ucsf.edu
 
 ---

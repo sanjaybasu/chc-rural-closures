@@ -18,5 +18,5 @@ Thank you for considering our submission.
 Sincerely,
 
 Sanjay Basu, MD, PhD
-Waymark / UCSF Department of Epidemiology and Biostatistics
+UCSF Department of Medicine / Waymark
 sanjay.basu@ucsf.edu

@@ -9,8 +9,8 @@ Sanjay Basu, MD, PhD<sup>1,2</sup>
 [Peter Shin, PhD, MPH — proposed senior author]<sup>3</sup>
 
 **Affiliations:**
-<sup>1</sup> Waymark, San Francisco, CA
-<sup>2</sup> Department of Epidemiology and Biostatistics, University of California, San Francisco, San Francisco, CA
+<sup>1</sup> Department of Medicine, University of California, San Francisco, San Francisco, CA
+<sup>2</sup> Waymark, San Francisco, CA
 <sup>3</sup> Geiger Gibson Program in Community Health, Milken Institute School of Public Health, The George Washington University, Washington, DC
 
 **Running head:** CHCs and rural hospital closures
@@ -20,7 +20,7 @@ Sanjay Basu, MD, PhD
 Email: sanjay.basu@ucsf.edu
 
 **Addresses for publication:**
-- Sanjay Basu: Waymark / UCSF Department of Epidemiology and Biostatistics, San Francisco, CA
+- Sanjay Basu: UCSF Department of Medicine / Waymark, San Francisco, CA
 
 **Number of tables:** 2
 **Number of figures:** 2
